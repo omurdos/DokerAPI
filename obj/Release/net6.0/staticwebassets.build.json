@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SIS3LGqJJ27zz4DDQVquObMU3M70GvNKQVwlHP0Zz/U=",
+  "Source": "DokerAPI",
+  "BasePath": "_content/DokerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

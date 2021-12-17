@@ -1,0 +1,11 @@
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\DokerAPI.exe
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\appsettings.Development.json
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\appsettings.json
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\DokerAPI.dll
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\DokerAPI.deps.json
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\DokerAPI.runtimeconfig.json
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\DokerAPI.pdb
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\Microsoft.OpenApi.dll
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\workspace\dotnet\DokerAPI\bin\release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

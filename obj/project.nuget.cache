@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ef1xdpfBmyjY7hR5pLm051IrtnIiDp7vYow2k+lG1S46Sf8DtXR/G82zWETXKnSpOCCnwbrTwjOazckiOcXVnw==",
+  "success": true,
+  "projectFilePath": "E:\\workspace\\dotnet\\DokerAPI\\DokerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murdos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Murdos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Murdos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Murdos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Murdos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Murdos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
